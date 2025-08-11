@@ -1,7 +1,7 @@
 # Diabetes Onset Prediction Project
 
 ## Overview
-This repository contains the code and resources for a machine learning project aimed at predicting diabetes onset and identifying patient risk profiles using the PIMA Indians Diabetes Dataset. The dataset, originally with 768 samples, has been augmented to 1100 samples with synthetic data to enhance robustness. The project implements classification (decision trees, k-NN, XGBoost) and clustering (k-means) algorithms, aligning with Intro to AI course objectives. The work was collaboratively developed by a team of three, with results designed to be interpretable for medical applications.
+This repository contains the code and resources for a machine learning project aimed at predicting diabetes onset and identifying patient risk profiles using the PIMA Indians Diabetes Dataset. The dataset, has been augmented to 1100 samples with synthetic data to enhance robustness and cater to the class imbalance using SMOTE. The project implements classification (decision trees, k-NN, XGBoost) and clustering (k-means) algorithms, aligning with Intro to AI course objectives. The work was collaboratively developed by a team of three, with results designed to be interpretable for medical applications.
 
 ## Project Purpose and Goals
 - Predict diabetes onset using supervised learning techniques.
